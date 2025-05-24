@@ -22,7 +22,7 @@ Tenho grande interesse tanto na lógica e funcionamento de aplicativos e sites q
 ### 🚀 Quero aprender:
 > Node.JS, Django;
 > React, React Native, Vue.JS, Next.JS, Auth.JS, Electron;
-> C++, Java, Python, Dart(Flutter), Kotlin, Swift;
+> C++, Java, TypeScript, Python, Dart(Flutter), Kotlin, Swift;
 > MongoDB e bancos de dados não relacionais.
 
 ### 📞 Contatos:
