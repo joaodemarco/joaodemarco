@@ -7,19 +7,27 @@ Tenho grande interesse tanto na lógica e funcionamento de aplicativos e sites q
 
 ---
 
-### 🚀 Tecnologias de interesse:
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Node.js, Express, APIs REST
-- Banco de dados: MySQL, MongoDB
-- Ferramentas: Git, GitHub, VS Code
-
+### ⚙️ Tecnologias e ferramentas:
+> C# com .NET Framework (Windows Forms e WPF);
+> Projetos WEB com HTML, CSS, JavaScript e PHP (Laravel);
+> Banco de dados: SQLServer, PostgreSQL, MySQL;
+> Ferramentas: Git, GitHub, VS Code, Visual Studio, SSMS, XAMPP, Laragon
 ---
 
-### 📫 Como me encontrar:
-- LinkedIn: [Seu perfil aqui](https://linkedin.com/in/seuperfil)
-- E-mail: seuemail@exemplo.com
-- Portfólio: [Seu portfólio aqui](https://seuportfolio.com)
+### 📖 Estou aprendendo:
+> TailwindCSS e DaisyUI;
+> Livewire;
+> Alpine.JS.
 
+### 🚀 Quero aprender:
+> Node.JS, Django;
+> React, React Native, Vue.JS, Next.JS, Auth.JS, Electron;
+> C++, Java, Python, Dart(Flutter), Kotlin, Swift;
+> MongoDB e bancos de dados não relacionais.
+
+### 📞 Contatos:
+- LinkedIn: [João Victor Demarco](https://www.linkedin.com/in/jo%C3%A3o-victor-demarco-b815262b5/)
+- E-mail: joaodemarco10@gmail.com
 ---
 
 > *"A tecnologia move o mundo — e eu quero fazer parte dessa jornada!"*
