@@ -14,11 +14,6 @@ Tenho grande interesse tanto na lógica e funcionamento de aplicativos e sites q
 > Ferramentas: Git, GitHub, VS Code, Visual Studio, SSMS, XAMPP, Laragon
 ---
 
-### 📖 Estou aprendendo:
-> TailwindCSS e DaisyUI;
-> Livewire;
-> Alpine.JS.
-
 ### 🚀 Quero aprender:
 > Node.JS, Django;
 > React, React Native, Vue.JS, Next.JS, Auth.JS, Electron;
