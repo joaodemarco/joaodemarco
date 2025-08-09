@@ -1,15 +1,15 @@
 # Bem vindo ao meu perfil 👋
 ## Me chamo João Victor e sou apaixonado por tecnologia! 🖥️
 ---
-Sou fascinado por entender como as tecnologias que usamos diariamente funcionam e estou em busca de me tornar um desenvolvedor **Full Stack** capaz de transformar ideias em soluções reais.
+Sou fascinado por entender como as tecnologias que usamos diariamente funcionam e estou em busca de ser capaz de transformar qualquer ideia em uma solução real.
 
 Tenho grande interesse tanto na lógica e funcionamento de aplicativos e sites quanto no design e na experiência do usuário. Acredito que unir funcionalidade com uma boa aparência é essencial para criar produtos digitais incríveis.
 
 ---
 
 ### ⚙️ Tecnologias e ferramentas:
-> C# com .NET Framework (Windows Forms e WPF);
-> Projetos WEB com HTML, CSS, JavaScript e PHP (Laravel);
+> C# com .NET Framework (Windows Forms, Avalonia e WPF);
+> HTML, CSS e JavaScript;
 > Banco de dados: SQLServer, PostgreSQL, MySQL;
 > Ferramentas: Git, GitHub, VS Code, Visual Studio, SSMS, XAMPP, Laragon
 ---
