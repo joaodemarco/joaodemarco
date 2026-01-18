@@ -6,7 +6,7 @@
 ![About me](https://github.com/joaodemarco/joaodemarco/blob/41b6b6ddcf5735437afff267c258b12c0bd0e60e/assets/about-me.png)
 
 - Pratical experience with **C#** projects development, using .**NET Framework** and **.NET Core**, **AvaloniaUI**, **Windows Forms** and **WPF**;
-- Maintenance on **Laravel** Projects, using tools like **TailwindCSS** and **JavaScript** libs;
+- Full development and maintenance on **Laravel** Projects, using tools like **TailwindCSS**, **Livewire** and **JavaScript** libs;
 - Interested in learning other languages and techonologies. Some of them are: **C++, Rust, Lua, TypeScript, React, Next.js,
   Node.js, Swift** and much more
 
