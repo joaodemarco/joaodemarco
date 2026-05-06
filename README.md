@@ -5,5 +5,3 @@
 
 Software developer focused on backend development with ASP.NET Core and frontend development with Angular.
 I work mainly with APIs, databases, web and desktop applications, with experience in both .NET and PHP/Laravel projects. I also have knowledge of frontend development and tools commonly used in modern web applications.
-
-Currently improving my skills in software architecture, database design, and backend development practices.
